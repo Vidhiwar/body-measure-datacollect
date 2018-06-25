@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Health Predictor Dataset</string>
+    <string name="new_entry">Add Data</string>
+    <string name="logout">Logout</string>
+    <string name="pick_image_intent_text">Logout</string>
+    <array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <array name="bodyType">
+        <item>Healthy</item>
+        <item>Skinny</item>
+        <item>Athletic</item>
+
+    </array>
+</resources>
